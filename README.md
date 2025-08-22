@@ -7,9 +7,13 @@ I am open to opportunities in Web Development, Backend Development, and Cloud Te
 
 🛠️ Skills  
 
-Languages: C++, Python, JavaScript (ES6+), TypeScript 
-Web Stack:HTML/CSS, React.js, Redux, Next.js, Node.js, Express.js  
-Databases: MySQL, MongoDB  
+Languages: C++, Python, JavaScript (ES6+), TypeScript
+
+Web Stack:HTML/CSS, React.js, Redux, Next.js, Node.js, Express.js
+
+Databases: MySQL, MongoDB
+
 Tools & Platforms: Git/GitHub, Google Cloud,AWS
+
 Concepts: Data Structures & Algorithms (DSA), OOP, Responsive Design 
 
